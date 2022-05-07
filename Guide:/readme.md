@@ -1,3 +1,2 @@
-[RTV Silicone Gasket Makers: Permatex Tech Tip Series](https://youtu.be/WA8ifJdLps4)
+[Gasket Maker Overview - Permatex Tech Tip Series](https://youtu.be/_qdykc8nMzA)
 
-[How to use RTV and properly make a gasket](https://youtu.be/21CvanhKILA)

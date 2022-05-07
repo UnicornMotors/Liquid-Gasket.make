@@ -12,9 +12,11 @@ $1.65/oz = $15.74/9.5 oz
 - https://www.walmart.com/ip/SEALANT-SILCONE-GRAY-RTV-9-5OZ/191594448
 
 # Permatex
-$2.17/oz = $20.70/9.5 oz
-- https://www.walmart.com/ip/Permatex-Ultra-Black-Maximum-Oil-Resistance-RTV-Silicone-Gasket-Maker-9-5-OZ-85080/19278896
 
 $18.60/13 oz  
 Permatex Ultra Grey Rigid High-Torque RTV Silicone Gasket Maker (13 oz.)
 - https://www.walmart.com/ip/Permatex-Ultra-Grey-Rigid-High-Torque-RTV-Silicone-Gasket-Maker-13-oz/141124033
+
+## Oil Resistant
+$2.17/oz = $20.70/9.5 oz
+- https://www.walmart.com/ip/Permatex-Ultra-Black-Maximum-Oil-Resistance-RTV-Silicone-Gasket-Maker-9-5-OZ-85080/19278896
